@@ -8,7 +8,7 @@ sidebar_position: 1
 
 **Prize Pool:** 5000 $XED
 
-**Lottery Ticket Fee for 1 ticket:** 5 **[$XED](/docs/get-started/xed-vs-exe#what-is-xed)**
+**Lottery Ticket Fee for 1 ticket:** 5 $XED
 
 **Single User Lottery Entry Limit:** Limited to 4 entries, but each entry can have any number of tickets.
 
@@ -28,5 +28,5 @@ The lottery aims to be completely random. The ticket numbers given out are deter
 
 ## Cashback
 
-For this lottery, we decided to give you **[$EXEs](/docs/get-started/xed-vs-exe#what-is-exe)** (Exeedme platform's currency) back for all the tickets you buy. For this, we take into account the current $XED rate and convert it to $EXEs (100 $EXEs = 1 $USD).
+For this lottery, we decided to give you $EXEs (Exeedme platform's currency) back for all the tickets you buy. For this, we take into account the current $XED rate and convert it to $EXEs (100 $EXEs = 1 $USD).
 To get this cashback, you will need an Exeedme account
