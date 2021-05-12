@@ -37,9 +37,14 @@ html[data-theme="dark"] {
     display: flex;
     justify-content: center;
     width: 100%;
+    height: 80px;
 
     .navbar__inner {
       max-width: 1440px;
+    }
+
+    .navbar__brand {
+      height: 2.5rem;
     }
   }
 }

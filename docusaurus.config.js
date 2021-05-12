@@ -27,9 +27,6 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve("./src/css/custom.scss"),
         },
