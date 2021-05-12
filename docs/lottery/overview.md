@@ -6,8 +6,11 @@ sidebar_position: 1
 
 ## Specifics
 
-Lottery Ticket Fee for 1 ticket: 5 **[$XED](/docs/get-started/xed-vs-exe#what-is-xed)**
-Single User Lottery Entry Limit: Limited to 4 entries, but each entry can have any number of tickets.
+**Prize Pool:** 5000 $XED
+
+**Lottery Ticket Fee for 1 ticket:** 5 **[$XED](/docs/get-started/xed-vs-exe#what-is-xed)**
+
+**Single User Lottery Entry Limit:** Limited to 4 entries, but each entry can have any number of tickets.
 
 Paying for one ticket will give users a random ticket number, which corresponds to its position in the overall tickets list.
 
