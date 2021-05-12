@@ -1,0 +1,19 @@
+- Exeedme Intro
+
+- The Basics
+    -> Introduction
+    -> Currencies
+    -> Trading
+    -> NFTs
+    -> Altcoins
+
+- The Platform
+    -> Get Started
+        - Create an account
+        - Play
+        - Deposit
+        - Withdraw
+    -> XED
+    -> Lottery
+    -> Game Mining
+    -> Staking

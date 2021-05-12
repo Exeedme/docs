@@ -2,34 +2,8 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Exeedme Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Exeedme is a blockchain-powered gaming platform allowing gamers at all skill-levels to monetize their skills.
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+In this docs you will find everything you need to know to make the most out of the platform.
