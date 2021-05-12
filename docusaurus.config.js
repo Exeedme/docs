@@ -11,6 +11,9 @@ module.exports = {
   organizationName: "exeedme",
   projectName: "exeedme-docs",
   themeConfig: {
+    colorMode: {
+      defaultMode: "dark",
+    },
     navbar: {
       title: "",
       logo: {
