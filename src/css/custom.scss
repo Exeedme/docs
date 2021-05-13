@@ -25,6 +25,11 @@ html[data-theme="dark"] {
   padding: 0 var(--ifm-pre-padding);
 }
 
+div[role="banner"] {
+  font-size: 1.3rem;
+  height: auto;
+}
+
 #__docusaurus {
   align-items: center;
 
