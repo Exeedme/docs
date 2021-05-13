@@ -47,4 +47,9 @@ html[data-theme="dark"] {
       height: 2.5rem;
     }
   }
+
+  .markdown {
+    display: flex;
+    flex-direction: column;
+  }
 }

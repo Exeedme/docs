@@ -1,0 +1,108 @@
+---
+sidebar_position: 2
+---
+
+import { Image, HStack } from "../../src/components/";
+
+# Play
+
+It's time for you to play your first game. In **Exeedme** we have a lot of options for you to start playing.
+
+## Custom Lobbies
+
+![available game modes](/img/platform/custom_lobbies.png)
+
+The Exeedme custom lobbies allow you to play with your friends with just a few clicks. There are currently 3 game modes available:
+
+- 1 vs 1
+- 2 vs 2
+- 5 vs 5
+
+They all work the same way. Simply select the game mode and choose a server region (Europe and North America for now), and a bet amount in EXEs. After that the lobby is created and you can start inviting your friends.
+
+When the lobby is full the owner can press the _Start_ button, and the veto begins.
+
+### Veto
+
+At Exeedme the server and map selection work through a veto. Each team's captains take turns eliminating a server/map.
+The remaining map/server gets selected and the game begins!
+
+All you need to do is join the server and start showing your friends what a CS:GO pro looks like! 🤪
+
+## Matchmaking
+
+Matchmaking is the most recent game mode available at Exeedme. It allows you to play with and against people of the same skill level as you while trying to rank up.
+
+### How do I do it?
+
+**1.** First you need to create a party. You do it by pressing the _Create Party_ button on the right sidebar.
+
+<HStack justifyContent="space-around">
+  <Image src="/img/platform/create_party.png" alt="Create Party button" />
+  <Image src="/img/platform/party.png" alt="Created party" />
+</HStack>
+
+Easy right?
+
+**2.** Now you need to invite your friends by clicking the **+** buttons next to your avatar.
+
+**3.** After the squad is gathered everyone needs to select a maximum bet amount and lock it by pressing the checkmark button.
+
+**4.** The owner of the party then selects the game mode and the party enters the queue.
+
+All that is left to do is make sure to accept the match and **have fun!** 😁
+
+### How does betting work
+
+Every player selects a maximum amount in EXEs that they are willing to bet. When the match is found each team's bet is calculated and the match is played with the lowest bet.
+
+Let's say we have team **Exeedme1** with players A and B:
+
+- **Player A** sets maximum bet as **150EXEs**
+- **Player B** sets maximum bet as **60EXEs**
+
+And team **Exeedme2** with players C and D:
+
+- **Player C** sets maximum bet as **220EXEs**
+- **Player D** sets maximum bet as **100EXEs**
+
+Exeedme1's bet is `150 + 60 = 210EXEs` and Exeedme2' is `220 + 100 = 320EXEs`.
+
+This means that both teams will bet 210EXEs, the smaller amount between the two. So, player's C and D will have to reduce their bet amounts. This is done in descending order, automatically, while keeping the ratio:
+
+- **Player C** has 68.75% (220/320 x 100) of their team's bet so their bet will be `210 x 0.6875 = 144EXEs`
+- **Player D**'s bet will be the remaining amount since they're the last player of the team, so `210 - 144 = 66EXEs`
+
+So, the winning team gets **420EXEs** split by both players according to their bets. The winning players always double the amount they bet, and the losing players never lose more than the pre-defined maximum amount.
+
+### Elo and Ranking
+
+There are 20 ranks in Exeedme:
+
+<HStack justifyContent="space-around" flexWrap="wrap" marginBottom="8px">
+  {[...Array(10).keys()].map((number) => (
+    <Image
+      key={number}
+      src={`/img/platform/ranks/${number + 1}.svg`}
+      alt={`Rank ${number + 1}`}
+      height="40px"
+    />
+  ))}
+</HStack>
+<HStack justifyContent="space-around" flexWrap="wrap">
+  {[...Array(10).keys()].map((number) => (
+    <Image
+      key={number}
+      src={`/img/platform/ranks/${number + 11}.svg`}
+      alt={`Rank ${number + 11}`}
+      height="40px"
+    />
+  ))}
+</HStack>
+<br />
+
+When you enter a queue, the elo is calculated by averaging the Elo of all of its players. A little extra boost will be given depending on the number of players (to be fairer to solo player parties).
+
+The matchmaking will also take into account the time each party has been waiting. It will always try to find parties with similar Elo points. In case a match can't be found quickly, the range of acceptable Elos is gradually increased. Evidently, there will be a hard-limit to this increase.
+
+## Hubs
