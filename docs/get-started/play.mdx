@@ -2,7 +2,14 @@
 sidebar_position: 2
 ---
 
-import { Image, HStack, VStack, Bold, Note } from "../../src/components/";
+import {
+  Image,
+  HStack,
+  VStack,
+  Bold,
+  Note,
+  Warning,
+} from "../../src/components/";
 
 # Play
 
@@ -118,6 +125,11 @@ This means that both teams will bet 420EXEs, the smaller amount between the two.
 
 So, the winning team gets **840EXEs**, minus the platform fees which are currently _9%_, split by both players according to their bets. The winning players always double the amount they bet, and the losing players never lose more than the pre-defined maximum amount.
 
+<Note>
+  The bet amount for each player will never be lower than 100EXE, even after
+  adjusting.
+</Note>
+
 ### Elo and Ranking
 
 There are 20 ranks in Exeedme:
@@ -152,7 +164,7 @@ When you enter a queue, the elo is calculated by averaging the Elo of all of its
 
 The matchmaking will also take into account the time each party has been waiting. It will always try to find parties with similar Elo points. In case a match can't be found quickly, the range of acceptable Elos is gradually increased. Evidently, there will be a hard-limit to this increase.
 
-<Note>
+<Warning>
   <b>Beware that there's a penalty if you accept a match and don't play it!</b>
   <br />
   If you dodge a game you'll lose your bet and be given a cooldown.
@@ -170,7 +182,7 @@ The matchmaking will also take into account the time each party has been waiting
     </li>
   </ul>
   Increasing to infinity
-</Note>
+</Warning>
 
 ## Hubs
 

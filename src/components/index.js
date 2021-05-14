@@ -46,7 +46,29 @@ export const Bold = ({ children, ...rest }) => (
   </Text>
 );
 
-export const Note = ({ children, ...rest }) => (
+export const Note = ({ children, title, ...rest }) => (
+  <div
+    style={{
+      paddingRight: "16px",
+      paddingLeft: "16px",
+      paddingTop: "12px",
+      paddingBottom: "12px",
+      borderRadius: "8px",
+      border: "1px solid",
+      borderColor: "#666",
+      background: "#333",
+      color: "inherit",
+      ...rest,
+    }}
+  >
+    <div style={{ color: "inherit", fontSize: "1.2rem", fontWeight: "600" }}>
+      {title || "Note"}
+    </div>
+    {children}
+  </div>
+);
+
+export const Warning = ({ children, title, ...rest }) => (
   <div
     style={{
       paddingRight: "16px",
@@ -60,7 +82,7 @@ export const Note = ({ children, ...rest }) => (
     }}
   >
     <div style={{ color: "black", fontSize: "1.2rem", fontWeight: "600" }}>
-      Note
+      {title || "Warning"}
     </div>
     {children}
   </div>
