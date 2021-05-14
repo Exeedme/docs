@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-import { Image, HStack } from "../../src/components/";
+import { Image, HStack, VStack, Bold, Note } from "../../src/components/";
 
 # Play
 
@@ -10,7 +10,7 @@ It's time for you to play your first game. In **Exeedme** we have a lot of optio
 
 ## Custom Lobbies
 
-![available game modes](/img/platform/custom_lobbies.png)
+<Image src="/img/platform/custom_lobbies.png" alt="Available game modes" />
 
 The Exeedme custom lobbies allow you to play with your friends with just a few clicks. There are currently 3 game modes available:
 
@@ -26,6 +26,21 @@ When the lobby is full the owner can press the _Start_ button, and the veto begi
 
 At Exeedme the server and map selection work through a veto. Each team's captains take turns eliminating a server/map.
 The remaining map/server gets selected and the game begins!
+
+At the moment we support two regions: Europe and North America.
+
+Below you can see a list with all the server locations for each region. Choose wisely.
+
+<VStack>
+  <VStack>
+    <Bold>European servers:</Bold>
+    <Image src="/img/platform/europe.png" alt="European servers" />
+  </VStack>
+  <VStack>
+    <Bold>North American servers:</Bold>
+    <Image src="/img/platform/north_america.png" alt="North American servers" />
+  </VStack>
+</VStack>
 
 All you need to do is join the server and start showing your friends what a CS:GO pro looks like! 🤪
 
@@ -109,4 +124,42 @@ When you enter a queue, the elo is calculated by averaging the Elo of all of its
 
 The matchmaking will also take into account the time each party has been waiting. It will always try to find parties with similar Elo points. In case a match can't be found quickly, the range of acceptable Elos is gradually increased. Evidently, there will be a hard-limit to this increase.
 
+<Note>
+  <b>Beware that there's a penalty if you accept a match and don't play it!</b>
+  <br />
+  If you dodge a game you'll lose your bet and be given a cooldown.
+  <br />
+  The cooldown works with tiers and everytime you dodge, you climb the tier:
+  <ul>
+    <li>
+      <b>Tier 1:</b> 30 minutes
+    </li>
+    <li>
+      <b>Tier 2:</b> 90 minutes
+    </li>
+    <li>
+      <b>Tier 3:</b> 4 hours and 30 minutes
+    </li>
+  </ul>
+  Increasing to infinity
+</Note>
+
 ## Hubs
+
+The hubs are like communities with their private matchmaking, ranking systems and exciting prizes.
+
+<Image src="/img/platform/hub.png" alt="Hub" />
+
+### Settings
+
+Hubs have their own settings. Let's go over them:
+
+- **Initial Points:** The points everyone starts with when playing in the hub.
+- **Points per win:** The amount of points you get when you win a game in the hub.
+- **Points per loss:** The amount of points you get when you lose a game in the hub.
+- **Bet per player:** The fixed bet amount per player for each game in the hub.
+- **Penalty:** The penalty, in EXEs, you'll be given if you dodge a game in the hub.
+
+### Matchmaking
+
+The matchmaking in hubs is similar to normal matchmaking but instead of using the player's Elo, it's based in the player's points in the hub.

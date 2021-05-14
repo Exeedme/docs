@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.scss";
 
 export const Image = ({ src, alt, ...rest }) => (
   <img
@@ -13,8 +14,34 @@ export const Image = ({ src, alt, ...rest }) => (
   />
 );
 
+export const Stack = ({ children, classes, ...rest }) => (
+  <div className={`stack ${classes && classes}`} style={{ ...rest }}>
+    {children}
+  </div>
+);
+
 export const HStack = ({ children, ...rest }) => (
-  <div style={{ display: "flex", direction: "row", ...rest }}>{children}</div>
+  <Stack classes="horizontal" {...rest}>
+    {children}
+  </Stack>
+);
+
+export const VStack = ({ children, ...rest }) => (
+  <Stack classes="vertical" {...rest}>
+    {children}
+  </Stack>
+);
+
+export const Text = ({ children, classes, ...rest }) => (
+  <p className={`text ${classes && classes}`} style={{ ...rest }}>
+    {children}
+  </p>
+);
+
+export const Bold = ({ children, ...rest }) => (
+  <Text classes="bold" {...rest}>
+    {children}
+  </Text>
 );
 
 export const Note = ({ children, ...rest }) => (
