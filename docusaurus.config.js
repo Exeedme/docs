@@ -19,7 +19,7 @@ module.exports = {
       logo: {
         alt: "Exeedme Logo",
         src: "img/logo.png",
-        href: "https://exeedme.com",
+        href: "https://beta.exeedme.com",
       },
     },
     announcementBar: {
