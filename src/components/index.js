@@ -6,7 +6,6 @@ export const Image = ({ src, alt, ...rest }) => (
     src={src}
     alt={alt}
     style={{
-      alignSelf: "center",
       objectFit: "cover",
       marginBottom: "8px",
       ...rest,
@@ -14,8 +13,11 @@ export const Image = ({ src, alt, ...rest }) => (
   />
 );
 
-export const Stack = ({ children, classes, ...rest }) => (
-  <div className={`stack ${classes && classes}`} style={{ ...rest }}>
+export const Stack = ({ children, spacing, classes, ...rest }) => (
+  <div
+    className={`stack ${classes && classes}`}
+    style={{ gap: spacing, ...rest }}
+  >
     {children}
   </div>
 );
