@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Using Exchanges such as [Binance](https://www.binance.com/en), [Kraken](https://www.kraken.com/) and [Gate.io](https://www.gate.io/), you can buy and trade Cryptocurrencies, but it’s not the safest way to store them in an exchange, you should withdraw to your own wallet. In the case of any Ethereum based Token (ERC-20) you can withdraw to a wallet such as [MetaMask](https://metamask.io/), which is a web-browser client side based wallet.
 
-## How to send and receive money in a Blockchain?
+<!-- ## How to send and receive money in a Blockchain? -->
 
 ## How to create a crypto wallet?
 

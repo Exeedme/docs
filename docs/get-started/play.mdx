@@ -1,0 +1,205 @@
+---
+sidebar_position: 2
+---
+
+import {
+  Image,
+  HStack,
+  VStack,
+  Bold,
+  Note,
+  Warning,
+} from "../../src/components/";
+
+# Play
+
+It's time for you to play your first game. In **Exeedme** we have a lot of options for you to start playing.
+
+## Custom Lobbies
+
+<Image src="/img/platform/custom_lobbies.png" alt="Available game modes" />
+
+The Exeedme custom lobbies allow you to play with your friends with just a few clicks. There are currently 3 game modes available:
+
+- 1 vs 1
+- 2 vs 2
+- 5 vs 5
+
+They all work the same way. Simply select the game mode and choose a server region (Europe and North America for now), and a bet amount in EXEs. After that the lobby is created and you can start inviting your friends.
+
+When the lobby is full the owner can press the _Start_ button, and the veto begins.
+
+### Veto
+
+At Exeedme the server and map selection work through a veto. Each team's captains take turns eliminating a server/map.
+The remaining map/server gets selected and the game begins!
+
+#### Servers
+
+At the moment we support two regions: Europe and North America.
+
+Below you can see a list with all the server locations for each region. Choose wisely.
+
+<VStack alignItems="center" spacing="16px">
+  <VStack alignItems="flex-start" spacing="8px">
+    <Bold>European servers:</Bold>
+    <Image
+      src="/img/platform/europe.png"
+      alt="European servers"
+      maxWidth="500px"
+    />
+  </VStack>
+  <VStack alignItems="flex-start" spacing="8px">
+    <Bold>North American servers:</Bold>
+    <Image
+      src="/img/platform/north_america.png"
+      alt="North American servers"
+      maxWidth="500px"
+    />
+  </VStack>
+</VStack>
+
+#### Maps
+
+<VStack alignItems="center" spacing="16px">
+  <VStack alignItems="flex-start" spacing="8px">
+    <Bold>1v1 maps:</Bold>
+    <Image src="/img/platform/1v1_maps.png" alt="1v1 maps" maxWidth="500px" />
+  </VStack>
+  <VStack alignItems="flex-start" spacing="8px">
+    <Bold>2v2 maps:</Bold>
+    <Image src="/img/platform/2v2_maps.png" alt="2v2 maps" maxWidth="500px" />
+  </VStack>
+  <VStack alignItems="flex-start" spacing="8px">
+    <Bold>5v5 maps:</Bold>
+    <Image src="/img/platform/5v5_maps.png" alt="5v5 maps" maxWidth="500px" />
+  </VStack>
+</VStack>
+<br />
+
+All you need to do is join the server and start showing your friends what a CS:GO pro looks like! 🤪
+
+## Matchmaking
+
+Matchmaking is the most recent game mode available at Exeedme. It allows you to play with and against people of the same skill level as you while trying to rank up.
+
+### How do I do it?
+
+**1.** First you need to create a party. You do it by pressing the _Create Party_ button on the right sidebar.
+
+<HStack justifyContent="space-around" flexWrap="wrap">
+  <Image src="/img/platform/create_party.png" alt="Create Party button" />
+  <Image src="/img/platform/party.png" alt="Created party" />
+</HStack>
+
+Easy right?
+
+**2.** Now you need to invite your friends by clicking the **+** buttons next to your avatar.
+
+**3.** After the squad is gathered everyone needs to select a maximum bet amount and lock it by pressing the checkmark button.
+
+**4.** The owner of the party then selects the game mode and the party enters the queue.
+
+All that is left to do is make sure to accept the match and **have fun!** 😁
+
+### How does betting work
+
+Every player selects a maximum amount in EXEs that they are willing to bet. When the match is found each team's bet is calculated and the match is played with the lowest bet.
+
+Let's say we have team **Exeedme1** with players A and B:
+
+- **Player A** sets maximum bet as **300EXEs**
+- **Player B** sets maximum bet as **120EXEs**
+
+And team **Exeedme2** with players C and D:
+
+- **Player C** sets maximum bet as **220EXEs**
+- **Player D** sets maximum bet as **100EXEs**
+
+Exeedme1's bet is `300 + 120 = 420EXEs` and Exeedme2' is `440 + 200 = 640EXEs`.
+
+This means that both teams will bet 420EXEs, the smaller amount between the two. So, player's C and D will have to reduce their bet amounts. This is done automatically, while keeping the ratio:
+
+- **Player C** has 68.75% (440/640 x 100) of their team's bet so their bet will be `420 x 0.6875 = 288EXEs`
+- **Player D** has 31.25% (200/640 x 100) of their team's bet so their bet will be `420 x 0.3125 = 132EXEs`
+
+So, the winning team gets **840EXEs**, minus the platform fees which are currently _9%_, split by both players according to their bets. The winning players always double the amount they bet, and the losing players never lose more than the pre-defined maximum amount.
+
+<Note>
+  The bet amount for each player will never be lower than 100EXE, even after
+  adjusting.
+</Note>
+
+### Elo and Ranking
+
+There are 20 ranks in Exeedme:
+
+<HStack justifyContent="space-around" flexWrap="wrap" marginBottom="8px">
+  <Image src="/img/platform/ranks/1.svg" alt="Rank 1" height="40px" />
+  <Image src="/img/platform/ranks/2.svg" alt="Rank 2" height="40px" />
+  <Image src="/img/platform/ranks/3.svg" alt="Rank 3" height="40px" />
+  <Image src="/img/platform/ranks/4.svg" alt="Rank 4" height="40px" />
+  <Image src="/img/platform/ranks/5.svg" alt="Rank 5" height="40px" />
+  <Image src="/img/platform/ranks/6.svg" alt="Rank 6" height="40px" />
+  <Image src="/img/platform/ranks/7.svg" alt="Rank 7" height="40px" />
+  <Image src="/img/platform/ranks/8.svg" alt="Rank 8" height="40px" />
+  <Image src="/img/platform/ranks/9.svg" alt="Rank 9" height="40px" />
+  <Image src="/img/platform/ranks/10.svg" alt="Rank 10" height="40px" />
+</HStack>
+<HStack justifyContent="space-around" flexWrap="wrap">
+  <Image src="/img/platform/ranks/11.svg" alt="Rank 11" height="40px" />
+  <Image src="/img/platform/ranks/12.svg" alt="Rank 12" height="40px" />
+  <Image src="/img/platform/ranks/13.svg" alt="Rank 13" height="40px" />
+  <Image src="/img/platform/ranks/14.svg" alt="Rank 14" height="40px" />
+  <Image src="/img/platform/ranks/15.svg" alt="Rank 15" height="40px" />
+  <Image src="/img/platform/ranks/16.svg" alt="Rank 16" height="40px" />
+  <Image src="/img/platform/ranks/17.svg" alt="Rank 17" height="40px" />
+  <Image src="/img/platform/ranks/18.svg" alt="Rank 18" height="40px" />
+  <Image src="/img/platform/ranks/19.svg" alt="Rank 19" height="40px" />
+  <Image src="/img/platform/ranks/20.svg" alt="Rank 20" height="40px" />
+</HStack>
+<br />
+
+When you enter a queue, the elo is calculated by averaging the Elo of all of its players. A little extra boost will be given depending on the number of players (to be fairer to solo player parties).
+
+The matchmaking will also take into account the time each party has been waiting. It will always try to find parties with similar Elo points. In case a match can't be found quickly, the range of acceptable Elos is gradually increased. Evidently, there will be a hard-limit to this increase.
+
+<Warning>
+  <b>Beware that there's a penalty if you accept a match and don't play it!</b>
+  <br />
+  If you dodge a game you'll lose your bet and be given a cooldown.
+  <br />
+  The cooldown works with tiers and everytime you dodge, you climb the tier:
+  <ul>
+    <li>
+      <b>Tier 1:</b> 30 minutes
+    </li>
+    <li>
+      <b>Tier 2:</b> 90 minutes
+    </li>
+    <li>
+      <b>Tier 3:</b> 4 hours and 30 minutes
+    </li>
+  </ul>
+  Increasing to infinity
+</Warning>
+
+## Hubs
+
+The hubs are like communities with their private matchmaking, ranking systems and exciting prizes.
+
+<Image src="/img/platform/hub.png" alt="Hub" />
+
+### Settings
+
+Hubs have their own settings. Let's go over them:
+
+- **Initial Points:** The points everyone starts with when playing in the hub.
+- **Points per win:** The amount of points you get when you win a game in the hub.
+- **Points per loss:** The amount of points you get when you lose a game in the hub.
+- **Bet per player:** The fixed bet amount per player for each game in the hub.
+- **Penalty:** The penalty, in EXEs, you'll be given if you dodge a game in the hub.
+
+### Matchmaking
+
+The matchmaking in hubs is similar to normal matchmaking but instead of using the player's Elo, it's based in the player's points in the hub.

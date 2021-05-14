@@ -19,8 +19,15 @@ module.exports = {
       logo: {
         alt: "Exeedme Logo",
         src: "img/logo.png",
-        href: "https://exeedme.com",
+        href: "https://beta.exeedme.com",
       },
+    },
+    announcementBar: {
+      id: "under_construction",
+      content: "This docs page is still under development. Please be patient",
+      backgroundColor: "#d6b94f",
+      textColor: "#000",
+      isCloseable: false,
     },
   },
   presets: [
