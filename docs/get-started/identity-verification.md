@@ -2,8 +2,6 @@
 sidebar_position: 5
 ---
 
-import { Warning } from "../../src/components/";
-
 # Identity Verification
 
 At Exeedme you need to verify your identity after you play your first game.
@@ -19,7 +17,7 @@ You get access to:
 - A trusted and secure environment
 - Withdrawals
 
-<Warning>
-  Identity verification is extremely necessary mainly because it stops banned
-  players and other offenders to return to the platform
-</Warning>
+:::important
+Identity verification is extremely necessary mainly because it stops banned
+players and other offenders to return to the platform
+:::
