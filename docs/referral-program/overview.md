@@ -43,6 +43,8 @@ Everytime you reach a specific predetermined number of invited users, your refer
   - **TIER 7 - Affiliate:** +300 friends invited
     - Reach out to us, we have a surprise for you 
 
+Every six months, Exeedme will reset the counters of all Tiers, except for the users that were able to reach the Affiliate level, and will continue to benefit from other forms of compensation for their acquisition efforts.
+
 ## Example - Platinum Tier:
 
 Imagine that you’re currently in a Platinum Tier and you invite a new user. The moment that user validates his account, you will instantly receive **100 EXE x 5 = 500 EXE.**
