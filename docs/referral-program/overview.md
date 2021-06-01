@@ -15,7 +15,7 @@ The referral program is an incentive that greatly rewards loyal members who help
 
 When signing up on our platform, you’ll get a unique referral URL that you can share with your friends and audience. That personal link will make sure that every user that signs up on the platform is correctly attributed to you. 
 
-Once the user signs up with your referral link, and validates his account, you get **100 EXE x Tier Multiplier**. The user who signed up with your link will also receive 300 EXE to kickstart their account and start playing right away.
+Once the user signs up with your referral link, and validates their account, you get **100 EXE x Tier Multiplier**. The user who signed up with your link will also receive 300 EXE to kickstart their account and start playing right away.
 
 
 :::tip Important Pro-tip
@@ -51,6 +51,6 @@ When you increase your Tier level, you're not just increasing your payout per us
 
 ## Example - Platinum Tier:
 
-Imagine that you’re currently in a Platinum Tier and you invite a new user. The moment that user validates his account, you will instantly receive **100 EXE x 5 = 500 EXE.**
+Imagine that you’re currently in a Platinum Tier and you invite a new user. The moment that user validates their account, you will instantly receive **100 EXE x 5 = 500 EXE.**
 
 Still got questions? Check our FAQ's below
