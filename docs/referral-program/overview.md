@@ -45,6 +45,10 @@ Everytime you reach a specific predetermined number of invited users, your refer
 
 Every six months, Exeedme will reset the counters of all Tiers, except for the users that were able to reach the Affiliate level, and will continue to benefit from other forms of compensation for their acquisition efforts.
 
+## Increasing Tiers
+
+When you increase your Tier level, you're not just increasing your payout per user, we also reward you with a special bonus for each level increase. The reward formula is: **100 EXE x Tier Level**. So for example if you've just managed to get to Tier 4 (Gold), you'll receive **100 EXE x 4 = 400 EXE.**
+
 ## Example - Platinum Tier:
 
 Imagine that you’re currently in a Platinum Tier and you invite a new user. The moment that user validates his account, you will instantly receive **100 EXE x 5 = 500 EXE.**
