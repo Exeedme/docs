@@ -17,8 +17,8 @@ You can always check the status of your current referral stats and your current 
 
 ## How do you know exactly how many users I've brought?
 
-We use your personal referral link to make the accurte count of how many users you've managed to bring to the platform. It's a simple process, the user clicks your link, creates his account, and after validating his/her account you'll both immediately recieve your well deserved EXE.
+We use your personal referral link to make the accurate count of how many users you've managed to bring to the platform. It's a simple process, the user clicks your link, creates his account, and after validating his/her account you'll both immediately receive your well deserved EXE.
 
 ## If a user creates his account, but does not undergo KYC, will I still receive my reward?
 
-Unfortunately not. At the moment we are only rewarding accounts that are able to undergoe the full account validation, which includes a simple KYC process.
+Unfortunately not. At the moment we are only rewarding accounts that are able to undergo the full account validation, which includes a simple KYC process.

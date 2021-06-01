@@ -37,7 +37,7 @@ Everytime you reach a specific predetermined number of invited users, your refer
     - 3x more EXE’s;
   - **TIER 4 - Gold:** 50 - 99 friends invited
     - 4x more EXE’s; 
-  - **TIER 5 Platinum:** 100 - 150 friends invited
+  - **TIER 5 Platinum:** 100 - 199 friends invited
     - 5x more EXE’s
   - **TIER 6 Diamond:** 200-299 friends invited
     - 8x more EXE’s
