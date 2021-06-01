@@ -18,7 +18,6 @@ When signing up on our platform, you’ll get a unique referral URL that you can
 Once the user signs up with your referral link, and validates his account, you get **100 EXE x Tier Multiplier**. The user who signed up with your link will also receive 300 EXE to kickstart their account and start playing right away.
 
 
-
 :::tip Important Pro-tip
 
 It’s important to note that **for an account to be valid, the user must undergo the KYC process.**
@@ -37,9 +36,9 @@ Everytime you reach a specific predetermined number of invited users, your refer
     - 3x more EXE’s;
   - **TIER 4 - Gold:** 50 - 99 friends invited
     - 4x more EXE’s; 
-  - **TIER 5 Platinum:** 100 - 150 friends invited
+  - **TIER 5 Platinum:** 100 - 199 friends invited
     - 5x more EXE’s
-  - **TIER 6 Diamond:** 200-299 friends invited
+  - **TIER 6 Diamond:** 200 - 299 friends invited
     - 8x more EXE’s
   - **TIER 7 - Affiliate:** +300 friends invited
     - Reach out to us, we have a surprise for you 
@@ -48,4 +47,4 @@ Everytime you reach a specific predetermined number of invited users, your refer
 
 Imagine that you’re currently in a Platinum Tier and you invite a new user. The moment that user validates his account, you will instantly receive **100 EXE x 5 = 500 EXE.**
 
-Still got questions? Get in touch with us through our live-chat
+Still got questions? Check our FAQ's below
