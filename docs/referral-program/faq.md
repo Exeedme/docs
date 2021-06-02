@@ -33,6 +33,6 @@ Yes, definitely! Every time you increase your tier level, you also get some bonu
 
 ## Will the rewards be reseted at any point in time?
 
-Yes. Every six months we will reset the Tier levels for each user, except for the ones that have made it to the affiliate level and will now benefit from other forms of compensation for their user acquisition efforts.
+Yes. Every three months we will reset the Tier levels for each user, except for the ones that have made it to the affiliate level and will now benefit from other forms of compensation for their user acquisition efforts.
 
 
