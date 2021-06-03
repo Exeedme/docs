@@ -20,15 +20,15 @@ Have we mentioned the prizes yet? They are indeed awesome, **50.000 EXE** on the
 
 **Table of Rank & Prize**
 * **1st**        -    10.000 EXE
-* **2nd**        -    7.500 EXE
-* **3rd**        -    5.000 EXE
-* **4th**        -    2.500 EXE
-* **5th**        -    2.000 EXE
-* **6th**        -    1.500 EXE
-* **7th**        -    1.400 EXE
-* **8th**        -    1.300 EXE
-* **9th**        -    1.200 EXE
-* **10th**       -    1.100 EXE
-* **11-19th**    -    1.100 EXE
-* **20-30th**    -      550 EXE
+* **2nd**        -     7.500 EXE
+* **3rd**        -     5.000 EXE
+* **4th**        -     2.500 EXE
+* **5th**        -     2.000 EXE
+* **6th**        -     1.500 EXE
+* **7th**        -     1.400 EXE
+* **8th**        -     1.300 EXE
+* **9th**        -     1.200 EXE
+* **10th**       -     1.100 EXE
+* **11-19th**    -     1.100 EXE
+* **20-30th**    -       550 EXE
 
