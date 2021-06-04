@@ -13,7 +13,8 @@ At the end of every week, at the beginning of Exeedme’s Game Night, the weekly
 Every player that is signed up for Exeedme will be eligible to participate in this Weekly Ladder, there is no need for an extra sign up or join, players only need to make at least one game through regular matchmaking to be on track for the big prize pool.
 
 :::important
-Keep in mind that only 5v5 matchmaking games are counted for the leaderboard.
+Keep in mind that only 5v5 matchmaking games are counted for the leaderboard.<br/>
+For each win you get +5pts, and for each loss you lose -5pts.
 :::
 
 ## What’s in it for you?
