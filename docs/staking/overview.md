@@ -8,21 +8,21 @@ sidebar_position: 1
 
 There are 3 staking pools available:
 
-### Bronze
+### Beginner
 
 - **Maturity APY:** 20%
 - **Days to Maturity:** 60
 - **Early Withdrawal APY:** 8%
 - **Days to Early Withdrawal:** 30
 
-### Silver
+### Soldier
 
 - **Maturity APY:** 35%
 - **Days to Maturity:** 120
 - **Early Withdrawal APY:** 14%
 - **Days to Early Withdrawal:** 60
 
-### Gold
+### Pro
 
 - **Maturity APY:** 50%
 - **Days to Maturity:** 180
