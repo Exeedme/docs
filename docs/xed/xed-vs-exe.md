@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## What is EXE?
 
-EXEs are our in-platform stable currency. We know the importance for gamers to know exactly how much they are betting and that is almost impossible to achieve with volatile cryptocurrencies so, for betting purposes, the platform will work with EXEs whose value is pegged to the US Dollar.
+EXEs are our in-platform stable currency. We know the importance for gamers to know exactly how much they wager and that is almost impossible to achieve with volatile cryptocurrencies so, for wager purposes, the platform will work with EXEs whose value is pegged to the US Dollar.
 
 ## How to buy and sell XED?
 
