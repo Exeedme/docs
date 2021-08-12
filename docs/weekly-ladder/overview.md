@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-Exeedme is announcing the release of its Weekly Ladder. This consists of a very simple and straightforward weekly competition, where players will compete between themselves, from Friday to Friday, for a top place in the weekly leaderboard, to gain access to a total prize pool of **50.000 EXE** to be distributed across the **Top 30 players**.
+Exeedme is announcing the release of its Weekly Ladder. This consists of a very simple and straightforward weekly competition, where players will compete between themselves, from Friday to Friday, for a top place in the weekly leaderboard, to gain access to a total prize pool of **500 USDX** to be distributed across the **Top 30 players**.
 
 ## How does it work?
 
@@ -19,19 +19,19 @@ For each win you get +5pts, and for each loss you lose -5pts.
 
 ## What’s in it for you?
 
-Have we mentioned the prizes yet? They are indeed awesome, **50.000 EXE** on the line and we’ll be giving them out for the Top 30 Players with the following split rules:
+Have we mentioned the prizes yet? They are indeed awesome, **500 USDX** on the line and we’ll be giving them out for the Top 30 Players with the following split rules:
 
 **Table of Rank & Prize**
 
-- **1st** - 10.000 EXE
-- **2nd** - 7.500 EXE
-- **3rd** - 5.000 EXE
-- **4th** - 2.500 EXE
-- **5th** - 2.000 EXE
-- **6th** - 1.500 EXE
-- **7th** - 1.400 EXE
-- **8th** - 1.300 EXE
-- **9th** - 1.200 EXE
-- **10th** - 1.100 EXE
-- **11-20th** - 1.100 EXE
-- **21-30th** - 550 EXE
+- **1st** - 100 USDX
+- **2nd** - 75 USDX
+- **3rd** - 50 USDX
+- **4th** - 25 USDX
+- **5th** - 20 USDX
+- **6th** - 15 USDX
+- **7th** - 14 USDX
+- **8th** - 13 USDX
+- **9th** - 12 USDX
+- **10th** - 11 USDX
+- **11-20th** - 11 USDX
+- **21-30th** - 5.5 USDX
