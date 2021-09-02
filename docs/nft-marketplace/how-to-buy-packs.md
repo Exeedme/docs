@@ -33,11 +33,11 @@ This **“Secret Phrase”** is a way to restore your wallet if you run into any
 ## Step 2) Purchase some Ethereum (ETH)
 
 Ethereum, or Ether, is the token of the Ethereum blockchain that is needed in order to interact with the ecosystem. There are several ways to purchase Ethereum and top up your wallet, the easiest way is to do it directly from your MetaMask wallet using a Debit Card or Apple Pay directly. 
-  1) Open your MetaMask extension on your browser and click the blue “Buy” button.
-  2) Select your preferred payment provider, between “Wyre” or “Transak”;
-  3) Select the amount of Ethereum you would like to purchase;
-  4) Select your preferred payment method, between Debit card or Apple Pay;
-  5) Make the transaction and receive your first ETH;
+  - Open your MetaMask extension on your browser and click the blue “Buy” button.
+  - Select your preferred payment provider, between “Wyre” or “Transak”;
+  - Select the amount of Ethereum you would like to purchase;
+  - Select your preferred payment method, between Debit card or Apple Pay;
+  - Make the transaction and receive your first ETH;
 
 **Note:** There are some fees associated with purchasing ETH through MetaMask as well as using the Ethereum blockchain network. It is recommended to convert a bit more Fiat (EUR, USD, GBP, etc) to ETH to make sure you can proceed through the whole process.
 
