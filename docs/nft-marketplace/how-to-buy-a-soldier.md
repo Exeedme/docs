@@ -5,7 +5,7 @@ sidebar_position: 1
 # How to buy a Soldier NFT?
 
 Before you're able to purchase any kind of NFT, you will need to make sure you have a wallet created. 
-A crypto wallet, such as Metamask Wallet, stores your ETH (or other cryptocurrencies) and processes transactions on the blockchain. Your wallet represents a unique address that is used to complete transactions. In this case, your wallet will also be the holder your your new Moments NFTs.
+A crypto wallet, such as Metamask Wallet, stores your ETH (or other cryptocurrencies) and processes transactions on the blockchain. Your wallet represents a unique address that is used to complete transactions. In this case, your wallet will also be the holder of your new Soldier NFTs.
 
 [Metamask](https://www.metamask.io) is one of the most popular crypto wallet browser extension and mobile app for interacting with several blockchains, and will be used as an example on this tutorial.
 
@@ -25,7 +25,7 @@ B) Create a new account, which will be your new Wallet account.
   - Congratulations! You have successfully created your MetaMask account. A new Ethereum wallet address was automatically generated for you! You are all set to enter the fascinating world of cryptocurrency with your newly created wallet.
 
 
-:::warning Important: Don't forget
+:::important Important: Don't forget
 This **“Secret Phrase”** is a way to restore your wallet if you run into any issues. **DO NOT**, in any circumstance, reveal or share these secret phrase with anyone! If a bad actor has access to this combination of words, they WILL be able to access all your funds and you might be at risk of theft. Stay safe and never share them.
 :::
 
@@ -80,10 +80,10 @@ If you have additional questions, you can check out the official video tutorial 
 
 ## Step 5) Converting your Ethereum to $XED
 
-You're almost ready to purchase your packs, but to do so, you need to acquire them with the token $XED, whichc fuels our marketplace. To do that, you can navigate to Quickswap, a Polygon Decentralized Exchange, which allows to swap almost every token on the Polygon chain.
+You're almost ready to purchase your packs, but to do so, you need to acquire them with the token $XED, which fuels our marketplace. To do that, you can navigate to Quickswap, a Polygon Decentralized Exchange, which allows to swap almost every token on the Polygon chain.
 
   - Navigate to the [Quickswap Exchange](https://quickswap.exchange/#/swap)
-  - Make sure your connected to the Polygon Network by opening your MetaMask and checking for Polygon Mainnet on the top corner;
+  - Make sure you're connected to the Polygon Network by opening your MetaMask and checking for Polygon Mainnet on the top corner;
   - Input the tokens to swap with: the token you want to swap with and select $XED on the swapping end;
   - You will now need two connected steps to make the swap: "Approve" the contract (this is only needed once) and then "Swap" the assets;
 
