@@ -18,7 +18,7 @@ Once the user signs up with your referral link, and validates their account, you
 
 :::tip Important Pro-tip
 
-It’s important to note that **for an account to be valid, the user must undergo the KYC process.**
+It’s important to note that **for an account to be valid, the user must undergo the KYC process and play at least 1 match.**
 
 :::
 
