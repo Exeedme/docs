@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# How to buy Moments' Packs?
+# How to buy a Soldier NFT?
 
-Before you're able to purchase any kind of pack, you will need to make sure you have a wallet created. 
+Before you're able to purchase any kind of NFT, you will need to make sure you have a wallet created. 
 A crypto wallet, such as Metamask Wallet, stores your ETH (or other cryptocurrencies) and processes transactions on the blockchain. Your wallet represents a unique address that is used to complete transactions. In this case, your wallet will also be the holder your your new Moments NFTs.
 
 [Metamask](https://www.metamask.io) is one of the most popular crypto wallet browser extension and mobile app for interacting with several blockchains, and will be used as an example on this tutorial.
@@ -88,13 +88,17 @@ You're almost ready to purchase your packs, but to do so, you need to acquire th
   - You will now need two connected steps to make the swap: "Approve" the contract (this is only needed once) and then "Swap" the assets;
 
 
-## Step 6) Purchasing your new Moments' Packs from the marketplace
+## Step 6) Purchasing your new Soldiers Society NFT:
 
-You're finally one step away of purchasing your new Moments' packs! All you need to do right now is:
-  - Navigate to the Exeedme Marketplace tab;
-  - Connect to the website with your Wallet;
-  - Make sure you are connected to the Polygon Network;
-  - Select your desired packs and quantity to purchase;
-  - Validate and approve your transaction 
-  - Once you see the approved transaction pop up on MetaMask you are the new official owner of your packs; 
+After getting your wallet setup with the Polygon chain configured, you’re all set to follow the next steps to purchase your Soldier NFT! All you need to do right now is:
+  - Access our Soldiers Society page at www.exeedme.com/soldiers-society;
+  - When minting is live, on the 11th of November, at 4pm GMT, you will be able to see a button saying “Mint now”, that will take you to the mint page;
+  - Connect your Wallet and make sure you are connected to the Polygon network;
+  - Choose the amount of soldiers you’d like to mint;
+  - Click to submit transaction and approve it on your wallet;
+  - Congratulations, you’ve just minted your new Soldier! 
+
+After minting your Soldier Society NFT, it will show up in your wallet shortly afterwards.
+
+
 
