@@ -101,8 +101,8 @@ After getting your wallet setup with the Polygon chain configured, you’re all 
   - Navigate to the collection of NFTs you're interested in;
   - Choose the NFT you'd like to purchase and click to see the details page;
   - If the specific NFT isn't for sale, you'll be able to submit an offer for the consideration of the owner;
-  - If it's already on sale, you can cick to "Buy now", and after approve your transaction on the blockchain;
-  - After the transaction is approved, you'll be the proud owner of your ne NFT, congrats!
+  - If it's already on sale, you can click to "Buy now", and after approve your transaction on the blockchain;
+  - After the transaction is approved, you'll be the proud owner of your new NFT, congrats!
 
 Your NFT will show up in your wallet a few moments later.
 
