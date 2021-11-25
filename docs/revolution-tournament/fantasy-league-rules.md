@@ -20,7 +20,7 @@ Each participating team, and each of its players, will have one card that can be
 
 ## How does it work?
 
-Starting on the **25th of November**, users will be able to purchase the Fantasy League packs (or single player cards) from the Fantasy League page, using $XED as the base currency.
+Starting on the **26th of November**, users will be able to purchase the Fantasy League packs (or single player cards) from the Fantasy League page, using $XED as the base currency.
 After purchasing their packs, or individual player cards, users will be able to make their “bets” on which players will have the overall best score during the time of the main Event, before the deadline to lockup the team. After that, you can still make changes to your team, but keep in mind that the NFT you're replacing will have to be burned and you will be penalized in your overall score.
 
 So summing up, all you need to do is:
@@ -76,7 +76,7 @@ We are sharing percentages of the total prize pool, since the total will still b
 
 ## When will it take place?
 
-- Pack drop coming on the 25th November;
+- Pack drop coming on the 26th November;
 - We will be selling the packs during the week before the main event Tournament, from the 25th Nov - 1st Dec
 - Tournament Main Event starts on the 2nd of December and all the Fantasy League “bets” will ideally be closed - players can still make changes, but will be penalized on their final score;
 
