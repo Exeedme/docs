@@ -8,7 +8,7 @@ sidebar_position: 1
 
 - Crypto wallet on the Polygon PoS chain - if you need help creating a wallet, start [here](/docs/crypto-nfts-101/how-to-buy-nfts)
 - Exeedme Revolution Player NFTs bought with $XED on Polygon PoS chain
-- Deadlines: 1st December 11:59 PM UTC to lock your team
+- Deadlines: 2nd December 12:59 PM UTC to lock your team
 - Competition will start on the 2nd December until the 5th December.
 - Prizes will be automatically paid out using our Tournament smart contracts, and all is visible on our [Transparency page](https://app.exeedme.com/revolution-transparency).
 
