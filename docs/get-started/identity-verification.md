@@ -15,7 +15,7 @@ This helps us:
 You get access to:
 
 - A trusted and secure environment
-- Withdrawals
+- Withdrawals after your account is at least one week old
 
 :::important
 Identity verification is extremely necessary mainly because it stops banned
