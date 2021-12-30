@@ -4,18 +4,23 @@ sidebar_position: 5
 
 # Identity Verification
 
-At Exeedme you need to verify your identity after you play your first game.
+Why does Exeedme asks me to complete KYC?
 
-This helps us:
+- Avoid cheaters from cheating and win funds from the remaining players
+- Fulfill AML requirements
 
-- Block bots and multi-accounts
-- Block cheaters trying to return to the platform
-- Keep you and all players safe
+What triggers the KYC?
 
-You get access to:
+- If you deposit over 100 USDX in a day 
+- If you deposit over 500 USDX overall
+- If your total winnings go over 20 USDX
+- If you play more than 5 games
 
-- A trusted and secure environment
-- Withdrawals after your account is at least one week old
+What's all the conditions for me to fulfill to be able to withdraw?
+
+- Perform a valid KYC 
+- Play at least 3 Games or 3 Battles
+
 
 :::important
 Identity verification is extremely necessary mainly because it stops banned
